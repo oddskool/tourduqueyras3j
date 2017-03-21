@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-7150797--Saint-Véran:Tour Queyras J1</name>
+			    <trkseg>
+	
+			<trkpt lat="44.703860" lon="6.898960">
+			 <ele>2800</ele>
+			<time>2017-03-21T20:57:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.698490" lon="6.903170">
+			 <ele>2858</ele>
+			<time>2017-03-21T20:59:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.696940" lon="6.903560">
+			 <ele>2846</ele>
+			<time>2017-03-21T21:01:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.697090" lon="6.905100">
+			 <ele>2902</ele>
+			<time>2017-03-21T21:03:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.697970" lon="6.906220">
+			 <ele>2943</ele>
+			<time>2017-03-21T21:05:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.696480" lon="6.907250">
+			 <ele>2926</ele>
+			<time>2017-03-21T21:07:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.694890" lon="6.907460">
+			 <ele>2882</ele>
+			<time>2017-03-21T21:09:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.692820" lon="6.906480">
+			 <ele>2793</ele>
+			<time>2017-03-21T21:11:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.689220" lon="6.909050">
+			 <ele>2634</ele>
+			<time>2017-03-21T21:13:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.684790" lon="6.914070">
+			 <ele>2526</ele>
+			<time>2017-03-21T21:15:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.682110" lon="6.916820">
+			 <ele>2464</ele>
+			<time>2017-03-21T21:17:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.678600" lon="6.917850">
+			 <ele>2336</ele>
+			<time>2017-03-21T21:19:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.675850" lon="6.921880">
+			 <ele>2347</ele>
+			<time>2017-03-21T21:21:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.674210" lon="6.921580">
+			 <ele>2345</ele>
+			<time>2017-03-21T21:23:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.671700" lon="6.922660">
+			 <ele>2380</ele>
+			<time>2017-03-21T21:25:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.669810" lon="6.924970">
+			 <ele>2417</ele>
+			<time>2017-03-21T21:27:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.668530" lon="6.928110">
+			 <ele>2442</ele>
+			<time>2017-03-21T21:29:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.666480" lon="6.932010">
+			 <ele>2447</ele>
+			<time>2017-03-21T21:31:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.665510" lon="6.935270">
+			 <ele>2464</ele>
+			<time>2017-03-21T21:33:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.666820" lon="6.939520">
+			 <ele>2485</ele>
+			<time>2017-03-21T21:35:39Z</time>
+			</trkpt>
+		
+			<trkpt lat="44.666510" lon="6.941450">
+			 <ele>2505</ele>
+			<time>2017-03-21T21:37:39Z</time>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

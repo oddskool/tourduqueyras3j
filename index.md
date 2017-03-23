@@ -37,6 +37,13 @@ _Mini Tour dans le Queyras sur 3 jours_
 </div>
 
 
+## Faisabilité
+
+- Grenoble -> St Véran : 3h30
+- [ ] appeler refuge pour nivologie
+- [ ] appeler office tourisme St Véran pour état des pistes de fond de fond de vallée
+- [ ] appeler remontées pour heure de fin
+
 ## Sécurité
 
 - [ ] Repérage pentes sur carte 

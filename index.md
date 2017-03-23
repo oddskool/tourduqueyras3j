@@ -5,7 +5,7 @@ _Mini Tour dans le Queyras sur 3 jours_
 
 ### J1: Saint-Véran -> Refuge de la Blanche
 
-![J1][j1.png]
+<img src="j1.png"/>
 
 - 6 km, 300 d+
 - [GPX Jour1](j1.gpx)
@@ -16,7 +16,7 @@ _Mini Tour dans le Queyras sur 3 jours_
 
 ### J2: Refuge de la Blanche -> Refuge Agnel
 
-![J2][j2.png]
+<img src="j2.png"/>
 
 - 10 km, 850 d+
 - [GPX Jour2](j2.gpx)
@@ -27,7 +27,7 @@ _Mini Tour dans le Queyras sur 3 jours_
 
 ### J3: Refuge Agnel -> Fontgillarde
 
-![J3][j3.png]
+<img src="j3.png"/>
 
 - 12 km, 650 d+
 - [GPX Jour3](j3.gpx)

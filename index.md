@@ -25,6 +25,8 @@ _Mini Tour dans le Queyras sur 3 jours_
 <script type="text/javascript" src="https://www.openrunner.com/orservice/inorser-script.php?key=mykey&amp;ser=S09&amp;id=7150831&amp;w=800&amp;h=800&amp;hp=128&amp;k=1&amp;m=0&amp;pa=1&amp;c=0&amp;ts=1490125134"></script>
 </div>
 
+<img src="plan-station.jpg"/>
+
 ### J3: Refuge Agnel -> Fontgillarde
 
 <img src="j3.png"/>
@@ -43,6 +45,8 @@ _Mini Tour dans le Queyras sur 3 jours_
 - [ ] appeler refuge pour nivologie
 - [ ] appeler office tourisme St Véran pour état des pistes de fond de fond de vallée
 - [ ] appeler remontées pour heure de fin
+- [ouverture des pistes (alpin)](https://www.queyras-montagne.com/ouverture-pistes-ski-alpin.html#S1)
+- [ouverture des pistes (nordique)](https://www.queyras-montagne.com/ouverture-pistes-ski-nordique.html)
 
 ## Sécurité
 

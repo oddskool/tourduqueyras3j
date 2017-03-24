@@ -42,20 +42,23 @@ _Mini Tour dans le Queyras sur 3 jours_
 ## Faisabilité
 
 - Grenoble -> St Véran : 3h30
-- [ ] appeler refuge pour nivologie
-- [ ] appeler office tourisme St Véran pour état des pistes de fond de fond de vallée
+- [ ] appeler refuges pour nivologie
+  - Refuge de la blanche (04 92 45 80 24) http://www.refugedelablanche.com/
+  - Refuge Agnel (04 92 45 83 90) http://www.refugeagnel.com/
+- [ ] appeler office tourisme St Véran (04 92 45 82 21) pour état des pistes de fond de fond de vallée
 - [ ] appeler remontées pour heure de fin
 - [ouverture des pistes (alpin)](https://www.queyras-montagne.com/ouverture-pistes-ski-alpin.html#S1)
 - [ouverture des pistes (nordique)](https://www.queyras-montagne.com/ouverture-pistes-ski-nordique.html)
+- [webcams](https://www.queyras-montagne.com/webcam-queyras.html)
 
 ## Sécurité
 
 - [ ] Repérage pentes sur carte 
-- [ ] Repérage pentes sur [skitrack](http://www.skitrack.fr/)
+- [x] Repérage pentes sur [skitrack](http://www.skitrack.fr/)
 - [ ] Repérage difficultés (orientation, passages) itinéraires
 - [ ] Repérage topo de chaque étape sur [skitour](http://www.skitour.fr/)
-- [ ] Check BRA J-3/J-2/J-1
-- [ ] Check Météo J-3/J-2/J-1
+- [ ] Check [BRA Queyras](http://www.meteofrance.com/previsions-meteo-montagne/bulletin-avalanches/queyras/OPP17) J-3/J-2/J-1
+- [ ] Check [Météo](http://www.meteofrance.com/previsions-meteo-france/saint-veran/05350) J-3/J-2/J-1
 
 ## Logistique
 

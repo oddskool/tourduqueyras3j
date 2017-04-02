@@ -11,11 +11,13 @@ _Mini Tour dans le Queyras sur 3 jours_
 
 ### J2: Refuge de la Blanche -> Refuge Agnel
 - Refuge de la Blanche -> Le Rouchon (S) -> Bergerie des Tioures (N) -> Refuge Agnel
-- D+ 400
+- D+ 600
 
 ### J3: Refuge Agnel -> Fontgillarde
-- Refuge Agnel -> Col de l'Eychassier (N) -> Lac Foréant (E) -> Col Vieux (S) 
-- D+ 400 + 300
+- Refuge Agnel -> Col de l'Eychassier (N) -> Lac Foréant (E) 
+- D+ 350
+- Lac Foréant (E) -> Col Vieux (S) 
+- D+ 200
 - Col Vieux -> Epaule du Pain de Sucre (S) -> Col Agnel (N) -> Refuge Agnel (N) -> Fontgillarde
 - D+ 150
 

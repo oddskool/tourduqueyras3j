@@ -16,7 +16,7 @@ _Mini Tour dans le Queyras sur 3 jours_
 ### J3: Refuge Agnel -> Fontgillarde
 - Refuge Agnel -> Col de l'Eychassier (N) -> Lac Foréant (E) 
 - D+ 350
-- Lac Foréant (E) -> Col Vieux (S) 
+- Lac Foréant (E) -> Col Vieux (S)
 - D+ 200
 - Col Vieux -> Epaule du Pain de Sucre (S) -> Col Agnel (N) -> Refuge Agnel (N) -> Fontgillarde
 - D+ 150
@@ -34,10 +34,10 @@ _Mini Tour dans le Queyras sur 3 jours_
 
 ## Sécurité
 
-- [ ] Repérage pentes sur carte 
+- [x] Repérage pentes sur carte 
 - [x] Repérage pentes sur [skitrack](http://www.skitrack.fr/)
-- [ ] Repérage difficultés (orientation, passages) itinéraires
-- [ ] Repérage topo de chaque étape sur [skitour](http://www.skitour.fr/)
+- [x] Repérage difficultés (orientation, passages) itinéraires
+- [x] Repérage topo de chaque étape sur [skitour](http://www.skitour.fr/)
 - [ ] Check [BRA Queyras](http://www.meteofrance.com/previsions-meteo-montagne/bulletin-avalanches/queyras/OPP17) J-3/J-2/J-1
 - [ ] Check [Météo](http://www.meteofrance.com/previsions-meteo-france/saint-veran/05350) J-3/J-2/J-1
 
